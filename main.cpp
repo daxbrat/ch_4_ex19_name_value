@@ -18,7 +18,6 @@ int main()
 		names.push_back(name);
 		scores.push_back(score);
 		counter++;
-		
 	}
 	
 
