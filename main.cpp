@@ -15,7 +15,7 @@ int main()
 		if (name == "NoName" && score == 0) {
 			break;
 		}
-		//---------------------Checking for duplicate name --- Try Mode checker instead
+		//---------------------Checking for duplicate name 
 		
 		bool duplicate = false;
 		for (int i = 0; i < names.size(); i++) {
